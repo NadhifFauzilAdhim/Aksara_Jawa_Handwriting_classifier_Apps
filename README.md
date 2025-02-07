@@ -2,6 +2,8 @@
 
 Proyek ini adalah aplikasi berbasis Streamlit yang menggunakan model ResNet18 untuk mendeteksi tulisan tangan dan mengklasifikasikan aksara Jawa dalam sebuah gambar. Sistem ini mampu melakukan segmentasi karakter dan memberikan prediksi beserta probabilitasnya.
 
+<a href="https://ibb.co.com/DgWxZmXG"><img src="https://i.ibb.co.com/rf0CVqPb/Screenshot-2025-02-07-144740.png" alt="Screenshot-2025-02-07-144740" border="0"></a>
+
 ## 📌 Fitur Utama
 - **Unggah Gambar**: Pengguna dapat mengunggah gambar yang mengandung aksara Jawa.
 - **Segmentasi Karakter**: Sistem secara otomatis mendeteksi dan mengekstrak aksara individu dari gambar.
