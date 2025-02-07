@@ -20,6 +20,7 @@ Proyek ini adalah aplikasi berbasis Streamlit yang menggunakan model ResNet18 un
 ├── Datasets/
 ├── model/
 │   └── hancaraka_Model.pth  # Model yang telah dilatih
+├── aksaratrain.py  # Kode utama train aksara jawa
 ├── app.py  # Kode utama aplikasi Streamlit
 ├── README.md  # Dokumentasi proyek
 ```
