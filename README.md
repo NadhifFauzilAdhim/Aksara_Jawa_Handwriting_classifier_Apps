@@ -31,7 +31,7 @@ Dataset yang digunakan untuk melatih model dapat diunduh melalui Kaggle:
 ## 🚀 Cara Menjalankan Aplikasi
 1. **Clone repositori ini**
    ```sh
-   git clone https://github.com/your-repo/aksara-jawa-classifier.git
+   git clone https://github.com/NadhifFauzilAdhim/Aksara_Jawa_Handwriting_classifier_Apps.git
    cd aksara-jawa-classifier
    ```
 
